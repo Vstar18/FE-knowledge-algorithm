@@ -8,6 +8,7 @@
   5. [整数反转](https://github.com/Vstar18/FE-knowledge-algorithm/issues/5)
   6. [字符串转换整数](https://github.com/Vstar18/FE-knowledge-algorithm/issues/6)
   7. [回文数](https://github.com/Vstar18/FE-knowledge-algorithm/issues/7)
+  8. [盛最多容器的水](https://github.com/Vstar18/FE-knowledge-algorithm/issues/9)
 
 
 
